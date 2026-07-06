@@ -1,1 +1,0 @@
-# derivative-main-cpp
